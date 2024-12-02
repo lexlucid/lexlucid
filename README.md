@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lex</h1>
 <h3 align="center">A software engineer</h3>
 
-- 🔭 I’m currently working on [brainsnack](https://github.com/lexlucid/brainsnack)
+- 🔭 I’m currently working on [audhio](https://github.com/lexlucid/audhio), a text-to-speech Chrome extension
 
 - 🌱 I’m currently learning **Python, Svelete, Three.js**
 
