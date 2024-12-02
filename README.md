@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [audhio](https://github.com/lexlucid/audhio), a text-to-speech Chrome extension
 
-- 🌱 I’m currently learning **Python, Svelete, Three.js**
+- 🌱 I’m currently learning **AI engineering, Chrome Extension development, and Python**
 
 - 👯 I’m looking to collaborate on project related to inclusion and accessibility
 
